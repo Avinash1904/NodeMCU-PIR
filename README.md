@@ -13,6 +13,7 @@ NodeMCU+PIR
 
 
 Additional Information:
+
 https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/testing-a-pir
 
 https://www.instructables.com/id/Convert-a-5v-PIR-Motion-Sensor-to-33v-for-ESP8266/
